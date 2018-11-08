@@ -7,7 +7,13 @@
         "start": "rm -rf dist && rm -rf .cache && parcel src/index.html --open",
         "build": "rm -rf dist && rm -rf .cache && parcel build src/index.html"
     },
-    "keywords": [],
+    "keywords": [
+        "react",
+        "parcel",
+        "parcel-bundler",
+        "parceljs",
+        "parcel-react"
+    ],
     "author": {
         "name": "KingRayhan",
         "email": "rayhan095@gmail.com",
