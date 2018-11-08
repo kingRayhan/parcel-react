@@ -1,0 +1,28 @@
+{
+    "name": "react-parcel",
+    "version": "1.0.0",
+    "description": "React build pack with parcel",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "rm -rf dist && rm -rf .cache && parcel src/index.html --open",
+        "build": "rm -rf dist && rm -rf .cache && parcel build src/index.html"
+    },
+    "keywords": [],
+    "author": {
+        "name": "KingRayhan",
+        "email": "rayhan095@gmail.com",
+        "url": "https://rayhan.info"
+    },
+    "license": "ISC",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-plugin-transform-class-properties": "^6.24.1",
+        "parcel-bundler": "^1.10.3"
+    },
+    "dependencies": {
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "react": "^16.6.1",
+        "react-dom": "^16.6.1"
+    }
+}
