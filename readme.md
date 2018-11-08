@@ -11,7 +11,7 @@ npm install
 npm start
 ```
 
-** Build project **
+**Build project**
 ```git
 npm run build
 ```
