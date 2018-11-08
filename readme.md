@@ -10,3 +10,8 @@ cd parcel-react
 npm install
 npm start
 ```
+
+** Build project **
+```git
+npm run build
+```
