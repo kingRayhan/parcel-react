@@ -1,3 +1,7 @@
+<center>
+    <img src="https://user-images.githubusercontent.com/7611746/48184515-74bf7180-e35c-11e8-8bf2-0786527ba507.png" />
+</center>
+
 # parcel-react
 
 A minimal React boilerplate with [parcel as bundler](https://parceljs.org/)
@@ -12,6 +16,7 @@ npm start
 ```
 
 **Build project**
+
 ```git
 npm run build
 ```
